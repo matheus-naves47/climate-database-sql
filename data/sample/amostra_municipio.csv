@@ -1,0 +1,1001 @@
+id_municipio,nome_municipio,uf_sigla,id_regiao
+1,Acrelândia,AC,1
+2,Brasiléia,AC,1
+3,Manoel Urbano,AC,1
+4,Senador Guiomard,AC,1
+5,Feijó,AC,1
+6,Plácido de Castro,AC,1
+7,Rio Branco,AC,1
+8,Assis Brasil,AC,1
+9,Epitaciolândia,AC,1
+10,Sena Madureira,AC,1
+11,Porto Acre,AC,1
+12,Capixaba,AC,1
+13,Xapuri,AC,1
+14,Abaíra,BA,2
+15,Barra da Estiva,BA,2
+16,Bonito,BA,2
+17,Ibitiara,BA,2
+18,Iraquara,BA,2
+19,Jussiape,BA,2
+20,Marcionílio Souza,BA,2
+21,Mucugê,BA,2
+22,Novo Horizonte,BA,2
+23,Piatã,BA,2
+24,Seabra,BA,2
+25,Utinga,BA,2
+26,Andaraí,BA,2
+27,Boninal,BA,2
+28,Ibicoara,BA,2
+29,Iramaia,BA,2
+30,Itaeté,BA,2
+31,Lençóis,BA,2
+32,Morro do Chapéu,BA,2
+33,Nova Redenção,BA,2
+34,Palmeiras,BA,2
+35,Rio de Contas,BA,2
+36,Souto Soares,BA,2
+37,Wagner,BA,2
+38,Anagé,BA,3
+39,Barra do Choça,BA,3
+40,Caetanos,BA,3
+41,Caraíbas,BA,3
+42,Licínio de Almeida,BA,3
+43,Mirante,BA,3
+44,Piripá,BA,3
+45,Ribeirão do Largo,BA,3
+46,Vitória da Conquista,BA,3
+47,Condeúba,BA,3
+48,Encruzilhada,BA,3
+49,Poções,BA,3
+50,Aracatu,BA,3
+51,Belo Campo,BA,3
+52,Cândido Sales,BA,3
+53,Jacaraci,BA,3
+54,Maetinga,BA,3
+55,Mortugaba,BA,3
+56,Planalto,BA,3
+57,Tremedal,BA,3
+58,Bom Jesus da Serra,BA,3
+59,Cordeiros,BA,3
+60,Guajeru,BA,3
+61,Presidente Jânio Quadros,BA,3
+62,Amargosa,BA,4
+63,Cravolândia,BA,4
+64,Irajuba,BA,4
+65,Itiruçu,BA,4
+66,Jiquiriçá,BA,4
+67,Lajedo do Tabocal,BA,4
+68,Santa Inês,BA,4
+69,Ubaíra,BA,4
+70,Milagres,BA,4
+71,Nova Itarana,BA,4
+72,Brejões,BA,4
+73,Elísio Medrado,BA,4
+74,Itaquara,BA,4
+75,Jaguaquara,BA,4
+76,Lafaiete Coutinho,BA,4
+77,Laje,BA,4
+78,São Miguel das Matas,BA,4
+79,Maracás,BA,4
+80,Mutuípe,BA,4
+81,Planaltino,BA,4
+82,Barreiras,BA,5
+83,Baianópolis,BA,5
+84,Catolândia,BA,5
+85,Correntina,BA,5
+86,Cocos,BA,5
+87,Luís Eduardo Magalhães,BA,5
+88,Jaborandi,BA,5
+89,Riachão das Neves,BA,5
+90,São Desidério,BA,5
+91,Formosa do Rio Preto,BA,5
+92,Santa Rita de Cássia,BA,5
+93,Almadina,BA,6
+94,Buerarema,BA,6
+95,Camamu,BA,6
+96,Itapé,BA,6
+97,Maraú,BA,6
+98,Prado,BA,6
+99,Ubaitaba,BA,6
+100,Itabela,BA,6
+101,Floresta Azul,BA,6
+102,Ilhéus,BA,6
+103,Itaju do Colônia,BA,6
+104,Una,BA,6
+105,Arataca,BA,6
+106,Camacan,BA,6
+107,Eunápolis,BA,6
+108,Itapitanga,BA,6
+109,Mascote,BA,6
+110,Santa Luzia,BA,6
+111,Aurelino Leal,BA,6
+112,Itamaraju,BA,6
+113,Ibicaraí,BA,6
+114,Itabuna,BA,6
+115,Itajuípe,BA,6
+116,Uruçuca,BA,6
+117,Barro Preto,BA,6
+118,Canavieiras,BA,6
+119,Jucuruçu,BA,6
+120,Jussari,BA,6
+121,Porto Seguro,BA,6
+122,São José da Vitória,BA,6
+123,Gandu,BA,6
+124,Coaraci,BA,6
+125,Ibirapitanga,BA,6
+126,Itacaré,BA,6
+127,Pau Brasil,BA,6
+128,Abaiara,CE,7
+129,Aratuba,CE,7
+130,Ubajara,CE,7
+131,Viçosa do Ceará,CE,7
+132,Capistrano,CE,7
+133,Croatá,CE,7
+134,Guaraciaba do Norte,CE,7
+135,Ibiapina,CE,7
+136,Ipueiras,CE,7
+137,Itapipoca,CE,7
+138,Meruoca,CE,7
+139,Pacatuba,CE,7
+140,Porteiras,CE,7
+141,Reriutaba,CE,7
+142,Alcântaras,CE,7
+143,Tianguá,CE,7
+144,Uruburetama,CE,7
+145,Baturité,CE,7
+146,Carnaubal,CE,7
+147,Graça,CE,7
+148,Guaramiranga,CE,7
+149,Ipu,CE,7
+150,Itapajé,CE,7
+151,Massapê,CE,7
+152,Mulungu,CE,7
+153,Palmácia,CE,7
+154,Redenção,CE,7
+155,São Benedito,CE,7
+156,Brasília,DF,8
+157,Venda Nova do Imigrante,ES,9
+158,Marechal Floriano,ES,9
+159,Itarana,ES,9
+160,Domingos Martins,ES,9
+161,Alfredo Chaves,ES,9
+162,Conceição do Castelo,ES,9
+163,Iconha,ES,9
+164,Itaguaçu,ES,9
+165,Rio Novo do Sul,ES,9
+166,Afonso Cláudio,ES,9
+167,Brejetuba,ES,9
+168,Castelo,ES,9
+169,Vargem Alta,ES,9
+170,Santa Teresa,ES,9
+171,Santa Leopoldina,ES,9
+172,Santa Maria de Jetibá,ES,9
+173,Governador Lindenberg,ES,10
+174,Jaguaré,ES,10
+175,Linhares,ES,10
+176,Nova Venécia,ES,10
+177,Pinheiros,ES,10
+178,Rio Bananal,ES,10
+179,São Gabriel da Palha,ES,10
+180,Colatina,ES,10
+181,São Mateus,ES,10
+182,Sooretama,ES,10
+183,Vila Valério,ES,10
+184,Dores do Rio Preto,ES,11
+185,São José do Calçado,ES,11
+186,Divino de São Lourenço,ES,11
+187,Guaçuí,ES,11
+188,Alegre,ES,11
+189,Muniz Freire,ES,11
+190,Ibitirama,ES,11
+191,Iúna,ES,11
+192,Irupi,ES,11
+193,Ibatiba,ES,11
+194,Ipameri,GO,12
+195,Catalão,GO,12
+196,Cabeceiras,GO,12
+197,Niquelândia,GO,12
+198,Planaltina,GO,12
+199,Montividiu,GO,12
+200,Gameleira de Goiás,GO,12
+201,Paraúna,GO,12
+202,Anicuns,GO,12
+203,Piracanjuba,GO,12
+204,Hidrolândia,GO,12
+205,Campo Alegre de Goiás,GO,12
+206,Água Fria de Goiás,GO,12
+207,Cristalina,GO,12
+208,São João d`Aliança,GO,12
+209,Rio Verde,GO,12
+210,Goiânia,GO,12
+211,Goianira,GO,12
+212,Mineiros,GO,12
+213,Trindade,GO,12
+214,Caiapônia,GO,12
+215,Aiuruoca,MG,13
+216,Tapiraí,MG,13
+217,Cabo Verde,MG,13
+218,Contagem,MG,13
+219,Estiva,MG,13
+220,Itaguara,MG,13
+221,Liberdade,MG,13
+222,Passa Quatro,MG,13
+223,Rio Manso,MG,13
+224,Sapucaí-Mirim,MG,13
+225,São Sebastião do Paraíso,MG,13
+226,Aguanil,MG,13
+227,Arceburgo,MG,13
+228,Caldas,MG,13
+229,Coqueiral,MG,13
+230,Extrema,MG,13
+231,Itajubá,MG,13
+232,Luminárias,MG,13
+233,Passa Tempo,MG,13
+234,Santa Cruz de Minas,MG,13
+235,Sarzedo,MG,13
+236,Belo Vale,MG,13
+237,Alagoa,MG,13
+238,Camanducaia,MG,13
+239,Cordislândia,MG,13
+240,Fama,MG,13
+241,Itamonte,MG,13
+242,Machado,MG,13
+243,Passa-Vinte,MG,13
+244,Santa Rita de Caldas,MG,13
+245,Senador Amaral,MG,13
+246,Betim,MG,13
+247,Albertina,MG,13
+248,Cambuí,MG,13
+249,Coronel Xavier Chaves,MG,13
+250,Florestal,MG,13
+251,Itanhandu,MG,13
+252,Madre de Deus de Minas,MG,13
+253,Passos,MG,13
+254,Santa Rita de Jacutinga,MG,13
+255,Senador José Bento,MG,13
+256,Boa Esperança,MG,13
+257,Alfenas,MG,13
+258,Campestre,MG,13
+259,Córrego do Bom Jesus,MG,13
+260,Formiga,MG,13
+261,Itapecerica,MG,13
+262,Mateus Leme,MG,13
+263,Pedra do Indaiá,MG,13
+264,Santana da Vargem,MG,13
+265,Seritinga,MG,13
+266,Bocaina de Minas,MG,13
+267,Alpinópolis,MG,13
+268,Campo do Meio,MG,13
+269,Córrego Fundo,MG,13
+270,Fortaleza de Minas,MG,13
+271,Itapeva,MG,13
+272,Matozinhos,MG,13
+273,Pedro Leopoldo,MG,13
+274,Santana do Garambéu,MG,13
+275,Serrania,MG,13
+276,Bom Jesus da Penha,MG,13
+277,Alterosa,MG,13
+278,Campos Gerais,MG,13
+279,Cristais,MG,13
+280,Funilândia,MG,13
+281,Itatiaiuçu,MG,13
+282,Minduri,MG,13
+283,Pimenta,MG,13
+284,Santo Antônio do Monte,MG,13
+285,Serranos,MG,13
+286,Capitólio,MG,13
+287,Andradas,MG,13
+288,Capim Branco,MG,13
+289,Crucilândia,MG,13
+290,Gonçalves,MG,13
+291,Itaú de Minas,MG,13
+292,Monsenhor Paulo,MG,13
+293,Piracema,MG,13
+294,São João Batista do Glória,MG,13
+295,Sete Lagoas,MG,13
+296,Conceição dos Ouros,MG,13
+297,Andrelândia,MG,13
+298,Careaçu,MG,13
+299,Cruzília,MG,13
+300,Guapé,MG,13
+301,Itaúna,MG,13
+302,Monte Belo,MG,13
+303,Piranguçu,MG,13
+304,São João da Mata,MG,13
+305,Silvianópolis,MG,13
+306,Congonhal,MG,13
+307,Arantina,MG,13
+308,Carmo da Cachoeira,MG,13
+309,Delfim Moreira,MG,13
+310,Ibirité,MG,13
+311,Itumirim,MG,13
+312,Monte Santo de Minas,MG,13
+313,Piumhi,MG,13
+314,São Joaquim de Bicas,MG,13
+315,Tiradentes,MG,13
+316,Guaranésia,MG,13
+317,Arcos,MG,13
+318,Carmo do Cajuru,MG,13
+319,Delfinópolis,MG,13
+320,Ibitiúra de Minas,MG,13
+321,Itutinga,MG,13
+322,Monte Sião,MG,13
+323,Poço Fundo,MG,13
+324,São José da Barra,MG,13
+325,Tocos do Moji,MG,13
+326,Guaxupé,MG,13
+327,Areado,MG,13
+328,Carmo do Rio Claro,MG,13
+329,Desterro de Entre Rios,MG,13
+330,Igarapé,MG,13
+331,Jacuí,MG,13
+332,Munhoz,MG,13
+333,Poços de Caldas,MG,13
+334,São José da Varginha,MG,13
+335,Toledo,MG,13
+336,Maria da Fé,MG,13
+337,Bandeira do Sul,MG,13
+338,Carmópolis de Minas,MG,13
+339,Divinópolis,MG,13
+340,Igaratinga,MG,13
+341,Jacutinga,MG,13
+342,Muzambinho,MG,13
+343,Pouso Alegre,MG,13
+344,São José do Alegre,MG,13
+345,Três Corações,MG,13
+346,Mário Campos,MG,13
+347,Bom Repouso,MG,13
+348,Carrancas,MG,13
+349,Divisa Nova,MG,13
+350,Iguatama,MG,13
+351,Japaraíba,MG,13
+352,Nepomuceno,MG,13
+353,Prados,MG,13
+354,São Pedro da União,MG,13
+355,Três Pontas,MG,13
+356,Marmelópolis,MG,13
+357,Bonfim,MG,13
+358,Carvalhópolis,MG,13
+359,Doresópolis,MG,13
+360,Ijaci,MG,13
+361,Jeceaba,MG,13
+362,Nova Resende,MG,13
+363,Pratápolis,MG,13
+364,São Roque de Minas,MG,13
+365,Turvolândia,MG,13
+366,Piedade do Rio Grande,MG,13
+367,Borda da Mata,MG,13
+368,Carvalhos,MG,13
+369,Elói Mendes,MG,13
+370,Ilicínea,MG,13
+371,Juatuba,MG,13
+372,Ouro Fino,MG,13
+373,Prudente de Morais,MG,13
+374,São Sebastião do Rio Verde,MG,13
+375,Vargem Bonita,MG,13
+376,Piedade dos Gerais,MG,13
+377,Botelhos,MG,13
+378,Cláudio,MG,13
+379,Entre Rios de Minas,MG,13
+380,Inconfidentes,MG,13
+381,Juruaia,MG,13
+382,Pains,MG,13
+383,Resende Costa,MG,13
+384,São Sebastião do Oeste,MG,13
+385,Varginha,MG,13
+386,São Bento Abade,MG,13
+387,Brumadinho,MG,13
+388,Conceição da Aparecida,MG,13
+389,Esmeraldas,MG,13
+390,Ingaí,MG,13
+391,Lagoa Dourada,MG,13
+392,Pará de Minas,MG,13
+393,Ribeirão das Neves,MG,13
+394,São Thomé das Letras,MG,13
+395,Wenceslau Braz,MG,13
+396,São Gonçalo do Pará,MG,13
+397,Bueno Brandão,MG,13
+398,Consolação,MG,13
+399,Espírito Santo do Dourado,MG,13
+400,Ipuiúna,MG,13
+401,Lavras,MG,13
+402,Paraguaçu,MG,13
+403,Ribeirão Vermelho,MG,13
+404,São Vicente de Minas,MG,13
+405,Virgínia,MG,13
+406,Carmo de Minas,MG,14
+407,São Lourenço,MG,14
+408,Dom Viçoso,MG,14
+409,Cachoeira de Minas,MG,14
+410,Campanha,MG,14
+411,Conceição das Pedras,MG,14
+412,Heliodora,MG,14
+413,Lambari,MG,14
+414,Olímpio Noronha,MG,14
+415,Pedralva,MG,14
+416,Pouso Alto,MG,14
+417,São Gonçalo do Sapucaí,MG,14
+418,Soledade de Minas,MG,14
+419,Cristina,MG,14
+420,Baependi,MG,14
+421,Brazópolis,MG,14
+422,Cambuquira,MG,14
+423,Caxambu,MG,14
+424,Conceição do Rio Verde,MG,14
+425,Jesuânia,MG,14
+426,Natércia,MG,14
+427,Paraisópolis,MG,14
+428,Piranguinho,MG,14
+429,Santa Rita do Sapucaí,MG,14
+430,São Sebastião da Bela Vista,MG,14
+431,Água Boa,MG,15
+432,Botumirim,MG,15
+433,Datas,MG,15
+434,Itabirinha,MG,15
+435,Leme do Prado,MG,15
+436,Montes Claros,MG,15
+437,Santa Efigênia de Minas,MG,15
+438,Serra Azul de Minas,MG,15
+439,Gameleiras,MG,15
+440,Padre Carvalho,MG,15
+441,Veredinha,MG,15
+442,Águas Formosas,MG,15
+443,Cachoeira de Pajeú,MG,15
+444,Diamantina,MG,15
+445,Itacambira,MG,15
+446,Malacacheta,MG,15
+447,Montezuma,MG,15
+448,Santa Helena de Minas,MG,15
+449,Serra dos Aimorés,MG,15
+450,Glaucilândia,MG,15
+451,Padre Paraíso,MG,15
+452,Virgem da Lapa,MG,15
+453,Águas Vermelhas,MG,15
+454,Campanário,MG,15
+455,Divino das Laranjeiras,MG,15
+456,Itaipé,MG,15
+457,Mamonas,MG,15
+458,Nacip Raydan,MG,15
+459,São João do Manteninha,MG,15
+460,Serranópolis de Minas,MG,15
+461,Gonzaga,MG,15
+462,Pai Pedro,MG,15
+463,Virginópolis,MG,15
+464,Almenara,MG,15
+465,Cantagalo,MG,15
+466,Divinolândia de Minas,MG,15
+467,Itamarandiba,MG,15
+468,Machacalis,MG,15
+469,Pescador,MG,15
+470,São João do Paraíso,MG,15
+471,Serro,MG,15
+472,Gouveia,MG,15
+473,Palmópolis,MG,15
+474,Virgolândia,MG,15
+475,Alpercata,MG,15
+476,Catuji,MG,15
+477,Divisa Alegre,MG,15
+478,Itambacuri,MG,15
+479,Materlândia,MG,15
+480,Ponto dos Volantes,MG,15
+481,São João Evangelista,MG,15
+482,Setubinha,MG,15
+483,Governador Valadares,MG,15
+484,Patis,MG,15
+485,Alvorada de Minas,MG,15
+486,Catuti,MG,15
+487,Divisópolis,MG,15
+488,Itaobim,MG,15
+489,Matias Cardoso,MG,15
+490,Porteirinha,MG,15
+491,São Félix de Minas,MG,15
+492,Taiobeiras,MG,15
+493,Grão Mogol,MG,15
+494,Paulistas,MG,15
+495,Angelândia,MG,15
+496,Central de Minas,MG,15
+497,Dom Joaquim,MG,15
+498,Itinga,MG,15
+499,Mantena,MG,15
+500,Poté,MG,15
+501,São Geraldo da Piedade,MG,15
+502,Teófilo Otoni,MG,15
+503,Guanhães,MG,15
+504,Pavão,MG,15
+505,Araçuaí,MG,15
+506,Chapada do Norte,MG,15
+507,Engenheiro Navarro,MG,15
+508,Jacinto,MG,15
+509,Marilac,MG,15
+510,Presidente Kubitschek,MG,15
+511,São Geraldo do Baixio,MG,15
+512,Vargem Grande do Rio Pardo,MG,15
+513,Guaraciama,MG,15
+514,Peçanha,MG,15
+515,Aricanduva,MG,15
+516,Coluna,MG,15
+517,Espinosa,MG,15
+518,Janaúba,MG,15
+519,Mata Verde,MG,15
+520,Riacho dos Machados,MG,15
+521,São Gonçalo do Rio Preto,MG,15
+522,Varzelândia,MG,15
+523,Nanuque,MG,15
+524,Pedra Azul,MG,15
+525,Capelinha,MG,15
+526,Comercinho,MG,15
+527,Felício dos Santos,MG,15
+528,Jenipapo de Minas,MG,15
+529,Mathias Lobato,MG,15
+530,Rio do Prado,MG,15
+531,São João da Ponte,MG,15
+532,Várzea da Palma,MG,15
+533,Ninheira,MG,15
+534,Santa Maria do Salto,MG,15
+535,Capitão Enéas,MG,15
+536,Conceição do Mato Dentro,MG,15
+537,Felisburgo,MG,15
+538,Jequitinhonha,MG,15
+539,Mato Verde,MG,15
+540,Rio Pardo de Minas,MG,15
+541,São José da Safira,MG,15
+542,Ataléia,MG,15
+543,Nova Belém,MG,15
+544,Santa Maria do Suaçuí,MG,15
+545,Caraí,MG,15
+546,Cristália,MG,15
+547,Francisco Badaró,MG,15
+548,Joaíma,MG,15
+549,Medina,MG,15
+550,Rio Vermelho,MG,15
+551,São José do Divino,MG,15
+552,Bandeira,MG,15
+553,Nova Módica,MG,15
+554,Santana de Pirapama,MG,15
+555,Carbonita,MG,15
+556,Curral de Dentro,MG,15
+557,Francisco Sá,MG,15
+558,Jordânia,MG,15
+559,Mendes Pimentel,MG,15
+560,Rubelita,MG,15
+561,São José do Jacuri,MG,15
+562,Frei Gaspar,MG,15
+563,Nova Porteirinha,MG,15
+564,Santo Antônio do Itambé,MG,15
+565,Carlos Chagas,MG,15
+566,Congonhas do Norte,MG,15
+567,Franciscópolis,MG,15
+568,José Gonçalves de Minas,MG,15
+569,Minas Novas,MG,15
+570,Rubim,MG,15
+571,São Pedro do Suaçuí,MG,15
+572,Frei Inocêncio,MG,15
+573,Novo Cruzeiro,MG,15
+574,Santo Antônio do Jacinto,MG,15
+575,Berilo,MG,15
+576,Coroaci,MG,15
+577,Francisco Dumont,MG,15
+578,José Raydan,MG,15
+579,Mirabela,MG,15
+580,Sabinópolis,MG,15
+581,São Sebastião do Maranhão,MG,15
+582,Frei Lagonegro,MG,15
+583,Novo Oriente de Minas,MG,15
+584,Santo Antônio do Retiro,MG,15
+585,Berizal,MG,15
+586,Coronel Murta,MG,15
+587,Jaíba,MG,15
+588,Josenópolis,MG,15
+589,Monjolos,MG,15
+590,Salinas,MG,15
+591,Sardoá,MG,15
+592,Fronteira dos Vales,MG,15
+593,Novorizonte,MG,15
+594,Turmalina,MG,15
+595,Bertópolis,MG,15
+596,Couto de Magalhães de Minas,MG,15
+597,Jampruca,MG,15
+598,Juramento,MG,15
+599,Monte Azul,MG,15
+600,Salto da Divisa,MG,15
+601,Senador Modestino Gonçalves,MG,15
+602,Fruta de Leite,MG,15
+603,Olhos-d`Água,MG,15
+604,Umburatiba,MG,15
+605,Bocaiúva,MG,15
+606,Crisólita,MG,15
+607,Indaiabira,MG,15
+608,Ladainha,MG,15
+609,Monte Formoso,MG,15
+610,Santa Cruz de Salinas,MG,15
+611,Senhora do Porto,MG,15
+612,Galiléia,MG,15
+613,Ouro Verde de Minas,MG,15
+614,Verdelândia,MG,15
+615,Abre Campo,MG,16
+616,Carangola,MG,16
+617,Entre Folhas,MG,16
+618,Miradouro,MG,16
+619,Piedade de Caratinga,MG,16
+620,São José do Mantimento,MG,16
+621,São Sebastião do Anta,MG,16
+622,Conceição de Ipanema,MG,16
+623,Rosário da Limeira,MG,16
+624,Simonésia,MG,16
+625,Faria Lemos,MG,16
+626,Santa Bárbara do Leste,MG,16
+627,Caiana,MG,16
+628,Caratinga,MG,16
+629,Imbé de Minas,MG,16
+630,Miraí,MG,16
+631,Porto Firme,MG,16
+632,São Domingos das Dores,MG,16
+633,Vargem Alegre,MG,16
+634,Ubaporanga,MG,16
+635,Santa Margarida,MG,16
+636,Araponga,MG,16
+637,Fervedouro,MG,16
+638,Teixeiras,MG,16
+639,Cajuri,MG,16
+640,Ervália,MG,16
+641,Inhapim,MG,16
+642,Muriaé,MG,16
+643,Raul Soares,MG,16
+644,São Francisco do Glória,MG,16
+645,Vermelho Novo,MG,16
+646,Paula Cândido,MG,16
+647,Santa Rita de Minas,MG,16
+648,Chalé,MG,16
+649,Jequeri,MG,16
+650,Tombos,MG,16
+651,Canaã,MG,16
+652,Divino,MG,16
+653,Manhuaçu,MG,16
+654,Mutum,MG,16
+655,Reduto,MG,16
+656,São João do Manhuaçu,MG,16
+657,Viçosa,MG,16
+658,Pedra Bonita,MG,16
+659,Santana do Manhuaçu,MG,16
+660,Coimbra,MG,16
+661,Lajinha,MG,16
+662,Caputira,MG,16
+663,Durandé,MG,16
+664,Matipó,MG,16
+665,Orizânia,MG,16
+666,São Miguel do Anta,MG,16
+667,São Sebastião da Vargem Alegre,MG,16
+668,Vieiras,MG,16
+669,Pedra Dourada,MG,16
+670,Sericita,MG,16
+671,Eugenópolis,MG,16
+672,Luisburgo,MG,16
+673,Acaiaca,MG,17
+674,Casa Grande,MG,17
+675,Dores de Campos,MG,17
+676,Itaverava,MG,17
+677,Oratórios,MG,17
+678,Rio Casca,MG,17
+679,Amparo do Serra,MG,17
+680,Chiador,MG,17
+681,Passabém,MG,17
+682,Santa Maria de Itabira,MG,17
+683,Tarumirim,MG,17
+684,Açucena,MG,17
+685,Cataguases,MG,17
+686,Dores de Guanhães,MG,17
+687,Itueta,MG,17
+688,Ouro Branco,MG,17
+689,São Brás do Suaçuí,MG,17
+690,Antônio Carlos,MG,17
+691,Cipotânea,MG,17
+692,Patrocínio do Muriaé,MG,17
+693,Santa Rita de Ibitipoca,MG,17
+694,Timóteo,MG,17
+695,Aimorés,MG,17
+696,Confins,MG,17
+697,Dores do Turvo,MG,17
+698,Jaboticatubas,MG,17
+699,Ouro Preto,MG,17
+700,São Domingos do Prata,MG,17
+701,Antônio Dias,MG,17
+702,Ewbank da Câmara,MG,17
+703,Pedra do Anta,MG,17
+704,Santa Rita do Itueto,MG,17
+705,Tocantins,MG,17
+706,Além Paraíba,MG,17
+707,Congonhas,MG,17
+708,Engenheiro Caldas,MG,17
+709,Jaguaraçu,MG,17
+710,Periquito,MG,17
+711,São Geraldo,MG,17
+712,Antônio Prado de Minas,MG,17
+713,Fernandes Tourinho,MG,17
+714,Pedro Teixeira,MG,17
+715,Santana de Cataguases,MG,17
+716,Tumiritinga,MG,17
+717,Alfredo Vasconcelos,MG,17
+718,Conselheiro Lafaiete,MG,17
+719,Estrela Dalva,MG,17
+720,Mar de Espanha,MG,17
+721,Piau,MG,17
+722,São Gonçalo do Rio Abaixo,MG,17
+723,Aracitaba,MG,17
+724,Ferros,MG,17
+725,Pequeri,MG,17
+726,Santana do Deserto,MG,17
+727,Ubá,MG,17
+728,Belo Oriente,MG,17
+729,Conselheiro Pena,MG,17
+730,Guarani,MG,17
+731,Mariana,MG,17
+732,Piedade de Ponte Nova,MG,17
+733,São João do Oriente,MG,17
+734,Argirita,MG,17
+735,Goiabeira,MG,17
+736,Rio Doce,MG,17
+737,Santana do Paraíso,MG,17
+738,Visconde do Rio Branco,MG,17
+739,Bias Fortes,MG,17
+740,Coronel Fabriciano,MG,17
+741,Guarará,MG,17
+742,Maripá de Minas,MG,17
+743,Pingo-d`Água,MG,17
+744,São João Nepomuceno,MG,17
+745,Astolfo Dutra,MG,17
+746,Goianá,MG,17
+747,Rio Espera,MG,17
+748,Santana do Riacho,MG,17
+749,Volta Grande,MG,17
+750,Bicas,MG,17
+751,Coronel Pacheco,MG,17
+752,Guidoval,MG,17
+753,Marliéria,MG,17
+754,Piranga,MG,17
+755,São José da Lapa,MG,17
+756,Baldim,MG,17
+757,Guaraciaba,MG,17
+758,Rio Novo,MG,17
+759,Santana dos Montes,MG,17
+760,Bom Jesus do Amparo,MG,17
+761,Córrego Novo,MG,17
+762,Guiricema,MG,17
+763,Matias Barbosa,MG,17
+764,Pirapetinga,MG,17
+765,São José do Goiabal,MG,17
+766,Barão de Cocais,MG,17
+767,Jequitibá,MG,17
+768,Rio Piracicaba,MG,17
+769,Santo Antônio do Aventureiro,MG,17
+770,Bom Jesus do Galho,MG,17
+771,Cristiano Otoni,MG,17
+772,Iapu,MG,17
+773,Mercês,MG,17
+774,Piraúba,MG,17
+775,São Pedro dos Ferros,MG,17
+776,Barão de Monte Alto,MG,17
+777,Joanésia,MG,17
+778,Rio Pomba,MG,17
+779,Santo Antônio do Grama,MG,17
+780,Brás Pires,MG,17
+781,Cuparaque,MG,17
+782,Ibertioga,MG,17
+783,Mesquita,MG,17
+784,Pocrane,MG,17
+785,São Sebastião do Rio Preto,MG,17
+786,Barbacena,MG,17
+787,João Monlevade,MG,17
+788,Rio Preto,MG,17
+789,Santo Antônio do Rio Abaixo,MG,17
+790,Braúnas,MG,17
+791,Descoberto,MG,17
+792,Ipaba,MG,17
+793,Moeda,MG,17
+794,Ponte Nova,MG,17
+795,Sem-Peixe,MG,17
+796,Barra Longa,MG,17
+797,Juiz de Fora,MG,17
+798,Rochedo de Minas,MG,17
+799,Santos Dumont,MG,17
+800,Bugre,MG,17
+801,Desterro do Melo,MG,17
+802,Ipanema,MG,17
+803,Morro do Pilar,MG,17
+804,Presidente Bernardes,MG,17
+805,Senador Cortes,MG,17
+806,Barroso,MG,17
+807,Lagoa Santa,MG,17
+808,Rodeiro,MG,17
+809,Senhora de Oliveira,MG,17
+810,Caeté,MG,17
+811,Diogo de Vasconcelos,MG,17
+812,Ipatinga,MG,17
+813,Naque,MG,17
+814,Queluzito,MG,17
+815,Senador Firmino,MG,17
+816,Bela Vista de Minas,MG,17
+817,Lamim,MG,17
+818,Sabará,MG,17
+819,Senhora dos Remédios,MG,17
+820,Capela Nova,MG,17
+821,Dionísio,MG,17
+822,Itabira,MG,17
+823,Nova Era,MG,17
+824,Raposos,MG,17
+825,Urucânia,MG,17
+826,Belmiro Braga,MG,17
+827,Laranjal,MG,17
+828,Santa Bárbara,MG,17
+829,Silveirânia,MG,17
+830,Capitão Andrade,MG,17
+831,Divinésia,MG,17
+832,Itabirito,MG,17
+833,Nova Lima,MG,17
+834,Recreio,MG,17
+835,Vespasiano,MG,17
+836,Belo Horizonte,MG,17
+837,Leopoldina,MG,17
+838,Santa Bárbara do Monte Verde,MG,17
+839,Simão Pereira,MG,17
+840,Caranaíba,MG,17
+841,Dom Cavati,MG,17
+842,Itamarati de Minas,MG,17
+843,Nova União,MG,17
+844,Resplendor,MG,17
+845,Alto Rio Doce,MG,17
+846,Catas Altas,MG,17
+847,Lima Duarte,MG,17
+848,Santa Bárbara do Tugúrio,MG,17
+849,Sobrália,MG,17
+850,Carandaí,MG,17
+851,Dom Silvério,MG,17
+852,Itambé do Mato Dentro,MG,17
+853,Olaria,MG,17
+854,Ressaquinha,MG,17
+855,Alvarenga,MG,17
+856,Catas Altas da Noruega,MG,17
+857,Paiva,MG,17
+858,Santa Cruz do Escalvado,MG,17
+859,Taparuba,MG,17
+860,Carmésia,MG,17
+861,Dona Eusébia,MG,17
+862,Itanhomi,MG,17
+863,Oliveira Fortes,MG,17
+864,Rio Acima,MG,17
+865,Alvinópolis,MG,17
+866,Chácara,MG,17
+867,Palma,MG,17
+868,Santa Luzia,MG,17
+869,Taquaraçu de Minas,MG,17
+870,Água Comprida,MG,18
+871,Comendador Gomes,MG,18
+872,Centralina,MG,18
+873,Campo Florido,MG,18
+874,Conceição das Alagoas,MG,18
+875,Delta,MG,18
+876,Dores do Indaiá,MG,18
+877,Lagoa da Prata,MG,18
+878,Lagoa Grande,MG,18
+879,Prata,MG,18
+880,São Francisco de Sales,MG,18
+881,Abaeté,MG,18
+882,Capinópolis,MG,18
+883,Cedro do Abaeté,MG,18
+884,Brasilândia de Minas,MG,18
+885,Frutal,MG,18
+886,Estrela do Indaiá,MG,18
+887,Itapagipe,MG,18
+888,Luz,MG,18
+889,Planura,MG,18
+890,Quartel Geral,MG,18
+891,Abadia dos Dourados,MG,19
+892,Buritis,MG,19
+893,Cascalho Rico,MG,19
+894,Douradoquara,MG,19
+895,Ibiá,MG,19
+896,Lagoa Formosa,MG,19
+897,Medeiros,MG,19
+898,Patos de Minas,MG,19
+899,Sacramento,MG,19
+900,Serra do Salitre,MG,19
+901,Uberlândia,MG,19
+902,Araguari,MG,19
+903,Buritizeiro,MG,19
+904,Conquista,MG,19
+905,Estrela do Sul,MG,19
+906,Indianópolis,MG,19
+907,Patrocínio,MG,19
+908,Monte Alegre de Minas,MG,19
+909,Pratinha,MG,19
+910,Santa Juliana,MG,19
+911,Tapira,MG,19
+912,Unaí,MG,19
+913,Arapuá,MG,19
+914,Campos Altos,MG,19
+915,Coromandel,MG,19
+916,Grupiara,MG,19
+917,Iraí de Minas,MG,19
+918,Pedrinópolis,MG,19
+919,Monte Carmelo,MG,19
+920,Presidente Olegário,MG,19
+921,Santa Rosa da Serra,MG,19
+922,Tiros,MG,19
+923,Varjão de Minas,MG,19
+924,Araxá,MG,19
+925,Canápolis,MG,19
+926,Córrego Danta,MG,19
+927,Guarda-Mor,MG,19
+928,João Pinheiro,MG,19
+929,Perdizes,MG,19
+930,Nova Ponte,MG,19
+931,Rio Paranaíba,MG,19
+932,São Gonçalo do Abaeté,MG,19
+933,Tupaciguara,MG,19
+934,Vazante,MG,19
+935,Bonfinópolis de Minas,MG,19
+936,Carmo do Paranaíba,MG,19
+937,Cruzeiro da Fortaleza,MG,19
+938,Guimarânia,MG,19
+939,Lagamar,MG,19
+940,Matutina,MG,19
+941,Paracatu,MG,19
+942,Romaria,MG,19
+943,São Gotardo,MG,19
+944,Uberaba,MG,19
+945,Bambuí,MG,19
+946,São Francisco de Paula,MG,20
+947,Bom Sucesso,MG,20
+948,Oliveira,MG,20
+949,Perdões,MG,20
+950,Ritápolis,MG,20
+951,Santana do Jacaré,MG,20
+952,São Tiago,MG,20
+953,Camacho,MG,20
+954,Campo Belo,MG,20
+955,Cana Verde,MG,20
+956,Candeias,MG,20
+957,Carmo da Mata,MG,20
+958,Conceição da Barra de Minas,MG,20
+959,Ibituruna,MG,20
+960,Nazareno,MG,20
+961,Santo Antônio do Amparo,MG,20
+962,São João del Rei,MG,20
+963,Alto Jequitibá,MG,11
+964,Alto Caparaó,MG,11
+965,Caparaó,MG,11
+966,Espera Feliz,MG,11
+967,Manhumirim,MG,11
+968,Martins Soares,MG,11
+969,Alta Floresta,MT,21
+970,Aripuanã,MT,21
+971,Carlinda,MT,21
+972,Castanheira,MT,21
+973,Colniza,MT,21
+974,Comodoro,MT,21
+975,Cotriguaçu,MT,21
+976,Juína,MT,21
+977,Juruena,MT,21
+978,Nova Bandeirantes,MT,21
+979,Nova Lacerda,MT,21
+980,Paranaíta,MT,21
+981,Rondolândia,MT,21
+982,Santo Antônio do Leverger,MT,21
+983,Tangará da Serra,MT,21
+984,Nova Monte Verde,MT,21
+985,Taquaritinga do Norte,PE,22
+986,Paranatama,PE,22
+987,Saloá,PE,22
+988,Vertentes,PE,22
+989,Garanhuns,PE,22
+990,Bom Conselho,PE,22
+991,Correntes,PE,22
+992,São João,PE,22
+993,Moreilândia,PE,22
+994,Angelim,PE,22
+995,Brejão,PE,22
+996,São Joaquim do Monte,PE,22
+997,Triunfo,PE,22
+998,Exu,PE,22
+999,Gravatá,PE,22
+1000,Terezinha,PE,22

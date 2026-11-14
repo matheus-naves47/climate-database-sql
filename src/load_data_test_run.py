@@ -2,12 +2,22 @@
 # load_data.py - VERSÃO DE TESTE
 # ==========================================
 
-import pandas as pd
-from sqlalchemy import create_engine
+import os
 from pathlib import Path
 
+import pandas as pd
+from sqlalchemy import URL, create_engine
+
 # 1. Configuração da Conexão
-engine = create_engine('postgresql+psycopg2://postgres:passwd@localhost:5432/special_coffee_br_dwgd_database')
+url_conexao = URL.create(
+    drivername="postgresql+psycopg2",
+    username="naves",
+    password=os.environ["POSTGRES_PASSWORD"],
+    host="localhost",
+    port=5432,
+    database="special_coffee_br_dwgd_test",
+)
+engine = create_engine(url_conexao)
 
 # ==========================================
 # 1. POPULAR REGIÕES DE ORIGEM (CSV)
@@ -52,8 +62,8 @@ df_clima_reg = df_clima_reg.merge(df_regioes_db, left_on='BSCA_REGION', right_on
 colunas_banco = ['id_regiao', 'data_ref', 'pr_mm', 'tmax_c', 'tmin_c', 'eto_mm', 'rh_pct', 'rs', 'u2_m_s']
 df_clima_reg = df_clima_reg[colunas_banco]
 
-# Insere apenas 100 linhas para teste
-df_teste_reg = df_clima_reg.head(100)
+# Insere apenas 1000 linhas para teste
+df_teste_reg = df_clima_reg.head(1000)
 df_teste_reg.to_sql('clima_regional', engine, if_exists='append', index=False, method='multi', chunksize=10000)
 
 # ==========================================
@@ -80,7 +90,7 @@ for arquivo in pasta_municipal.glob("*.parquet"):
     colunas_banco_mun = ['id_municipio', 'data_ref', 'pr_mm', 'tmax_c', 'tmin_c', 'eto_mm', 'rh_pct', 'rs', 'u2_m_s']
     df_clima_mun = df_clima_mun[colunas_banco_mun]
     
-    df_teste_mun = df_clima_mun.head(100)
+    df_teste_mun = df_clima_mun.head(1000)
     df_teste_mun.to_sql('clima_municipal', engine, if_exists='append', index=False, method='multi', chunksize=10000)
     
     break

@@ -1,10 +1,18 @@
-from sqlalchemy import create_engine, text
+import os
+
+from sqlalchemy import URL, create_engine, text
 from sqlalchemy.exc import OperationalError
 
-# Definir conexão com senha
-string_conexao = 'postgresql+psycopg2://postgres:passwd@localhost:5432/special_coffee_br_dwgd_database'
+url = URL.create(
+    drivername="postgresql+psycopg2",
+    username="naves",
+    password=os.environ["POSTGRES_PASSWORD"],
+    host="localhost",
+    port=5432,
+    database="special_coffee_br_dwgd_test",
+)
 
-engine = create_engine(string_conexao)
+engine = create_engine(url)
 
 try:
     # Tenta abrir a conexão com o banco
